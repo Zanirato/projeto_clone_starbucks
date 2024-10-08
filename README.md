@@ -8,5 +8,4 @@ Iniciamos o projeto abrindo a pasta com as imagens no Visual Studio Code junto c
 
  
 
- 
 ![Uploading Captura de tela 2024-10-08 083742.png…]()
