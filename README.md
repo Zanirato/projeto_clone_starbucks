@@ -8,4 +8,5 @@ Iniciamos o projeto abrindo a pasta com as imagens no Visual Studio Code junto c
 
  
 
-![Uploading Captura de tela 2024-10-08 084026.png…]()
+![image](https://github.com/user-attachments/assets/83c87114-20e7-42c2-b7f6-2d5d903c8d26)
+
